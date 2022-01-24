@@ -705,8 +705,8 @@ class Create_Merchant_obj {
         this.M_Verified = verified;
         this.M_Id = id;
         // List<String> arr = new ArrayList<>();
-        // arr.add("Count");
         // arr.add("Price");
+        // arr.add("Count");
         // this.M_Products.put("Product", (ArrayList<String>) arr);
     }
 }
