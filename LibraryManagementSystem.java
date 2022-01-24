@@ -463,8 +463,8 @@ public class LibraryManagementSystem {
                 //     System.out.println("===>"+Book_List.get(book_num).Borrowed_Users_List.get(i).ISBN);
                 //     if (Book_List.get(book_num).Borrowed_Users_List.get(i).ISBN == Integer.parseInt(isbn)) {
                 //         b1_num = i;
-                //         System.out.println(b1_num);
                 //         is_k = true;
+                //         System.out.println(b1_num);
                 //         bname = Book_List.get(book_num).Borrowed_Users_List.get(i).Name;
                 //         rbook = Book_List.get(book_num).Borrowed_Users_List.get(i).Return_date;
                 //         bbook = Book_List.get(book_num).Borrowed_Users_List.get(i).Borrow_date;
